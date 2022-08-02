@@ -45,7 +45,7 @@ $ roslaunch main main.launch
 ```
 Now, you should see Gazebo and rviz launching. Please note that Gazebo might take up to 5 min to launch! 
 <p align="center">
-<img src="images/turtlebor3_gazebo.png" width="1000">
+<img src="images/turtlebor3_gazebo.png">
 </p>
 
 
@@ -54,5 +54,5 @@ In the terminal, use the keyboard commands(w-a-s-d-x-space.) and drive the robot
 
 
 <p align="center">
-<img src="images/out1.png" width="1000">
+<img src="images/out1.png">
 </p>
