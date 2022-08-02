@@ -14,7 +14,7 @@ $ apt-get upgrade -y
 
 Now, Clone this repository in `/src` of your ROS workspace
 ```sh
-$ git clone https://github.com/Apatil10/SensorFusion-EKF
+$ git clone https://github.com/Apatil10/SensorFusion-EKF.git
 ```
 
 #### Edit the main.launch file
