@@ -44,10 +44,15 @@ $ source devel/setup.bash
 $ roslaunch main main.launch
 ```
 Now, you should see Gazebo and rviz launching. Please note that Gazebo might take up to 5 min to launch! 
+<p align="center">
+<img src="images/turtlebor3_gazebo.png" width="1000">
+</p>
 
 
 ### End Result
 In the terminal, use the keyboard commands(w-a-s-d-x-space.) and drive the robot around. The `red` trajectory represents the `Odom path` whereas the `green` trajectory represents the `EKF path`.
 
 
-<!-- ![alt text](Outcome.png) -->
+<p align="center">
+<img src="images/out1.png" width="1000">
+</p>
